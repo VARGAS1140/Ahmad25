@@ -8,12 +8,12 @@
 * ARIS187 ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '👾GUSTIAN BOT👾'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://www.instagram.com/ahmad_gustian_adi_nugraha/'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+6282137409151'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = '👾ANJING BOT👾'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'MEMEK BOT'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = 'KONTOL'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/LA5k2AFAjrbAMcn7HXSQgP'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://youtube.com/channel/UCNUXc-wvktd1xmH9HLEpnWQ'; // JANGAN UBAH-UBAH INFO!!!
+const groupwhatsapp = 'coli yuk'; // JANGAN UBAH-UBAH INFO!!!
+const youtube = 'ngetod'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
